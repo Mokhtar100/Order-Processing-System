@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 
 ## Usage
 
-   ### Creating Products:
+### Creating Products:
    1-Log in to the Django admin panel (/admin).
          ```bash
          Username: mokh
@@ -33,16 +33,16 @@ Before you begin, ensure you have the following installed:
    2-Go to the Products section in admin panel and Add Products.
    3-Fill in the required details and save.
 
-   ### Buy Products:
+### Buy Products:
    1-Log in to  (/) to see all products.
    2-Add products to cart .
 
-   ### Managing Cart:
+### Managing Cart:
    1-Log in to  (/cart) to see products in your cart.
    2-Total amount and The quantity of each product you purchased.
    3-To complete the purchase process press ("Pay Now") to go checkout.
 
-   ### Checkout Process:
+### Checkout Process:
    1-Log in to (/checkout) or when press ("Pay Now") in (/cart) automatically go to checkout.
    2-Add your name.
    3-Add your email to send a confirmation email have the order ID, purchased items, and total amount.
