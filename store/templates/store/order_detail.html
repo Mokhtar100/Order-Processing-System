@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Order Detail</title>
+</head>
+<body>
+    <h1>Order Detail</h1>
+    <ul>
+        {% for item in order.items.all %}
+            <li>{{ item.product.name }} - {{ item.quantity }} x ${{ item.price }}</li>
+        {% endfor %}
+    </ul>
+    <p>Total: ${{ order.total_amount }}</p>
+    <a href="{% url 'checkout' %}"><button>Pay Now</button></a>
+</body>
+</html>
