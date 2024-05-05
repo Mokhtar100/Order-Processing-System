@@ -27,9 +27,9 @@ Before you begin, ensure you have the following installed:
 
    ### Creating Products:
    1-Log in to the Django admin panel (/admin).
-      ```bash
-      Username: mokh
-      password: mokh
+         ```bash
+         Username: mokh
+         password: mokh
    2-Go to the Products section in admin panel and Add Products.
    3-Fill in the required details and save.
 
