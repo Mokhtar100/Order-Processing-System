@@ -13,8 +13,8 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/Mokhtar100/Order-Processing-System.git
 2. Navigate to the project directory:  
-  ```bash
-    cd Order-Processing-System
+   ```bash
+   cd Order-Processing-System
 3. Install django:
   ```bash
     pip install django
@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed:
 ## Testing:
 You can test the Order Processing System by navigating to the following URLs:
   ```bash
-  Products: http://localhost:8000/
-  Admin Panel: http://localhost:8000/admin/
-  Cart: http://localhost:8000/cart/
-  Checkout: http://localhost:8000/checkout/
+  -Products: http://localhost:8000/
+  -Admin Panel: http://localhost:8000/admin/
+  -Cart: http://localhost:8000/cart/
+  -Checkout: http://localhost:8000/checkout/
