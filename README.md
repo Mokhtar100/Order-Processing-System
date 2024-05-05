@@ -15,12 +15,12 @@ Before you begin, ensure you have the following installed:
 2. Navigate to the project directory:
    ```bash
    cd Order-Processing-System
-3. Install django:
-  ```bash
-    pip install django
-4. Run server:
-  ```bash
-    python manage.py runserver
+3. Install Django:
+   ```bash
+   pip install django
+4. Run the server:
+   ```bash
+   python manage.py runserver
 ## Usage
 ### Creating Products:
 1. Log in to the Django admin panel (/admin).
