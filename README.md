@@ -9,10 +9,9 @@ Before you begin, ensure you have the following installed:
 - Django (version 3.x)
 - sqlite3
 
-## Installation
- 1. Clone the repository:
-  ```bash
-    git clone https://github.com/Mokhtar100/Order-Processing-System.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mokhtar100/Order-Processing-System.git
 2. Navigate to the project directory:  
   ```bash
     cd Order-Processing-System
