@@ -52,3 +52,7 @@ Before you begin, ensure you have the following installed:
    Admin Panel: http://localhost:8000/admin/
    Cart: http://localhost:8000/cart/
    Checkout: http://localhost:8000/checkout/
+## License:
+This project is licensed under the MIT License.
+## Contact:
+For any inquiries, please contact [mohamedmokhtarm3@gmail.com].
