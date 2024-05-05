@@ -46,9 +46,9 @@ Before you begin, ensure you have the following installed:
 4. press ("Submit") to finish your progress.
 
 ## Testing:
-You can test the Order Processing System by navigating to the following URLs:
-  ```bash
-  -Products: http://localhost:8000/
-  -Admin Panel: http://localhost:8000/admin/
-  -Cart: http://localhost:8000/cart/
-  -Checkout: http://localhost:8000/checkout/
+- You can test the Order Processing System by navigating to the following URLs:
+   ```bash
+   Products: http://localhost:8000/
+   Admin Panel: http://localhost:8000/admin/
+   Cart: http://localhost:8000/cart/
+   Checkout: http://localhost:8000/checkout/
